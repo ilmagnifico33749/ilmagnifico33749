@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 I'm student at SoftUni, currently enlisted in the Python Dev Courses from the Professional Modules of SoftUni's Software Engineering Program. 
 It all started for me with a "Basics" course during the Pandemic, out of curiosity and also to kill some time.
 I was astonished to discover how fun programming is and it ended up turning into a hobby of mine which I hope to become my professional future.
-I'm currently balancing between a very demanding full time job and studying and coding in my free time.
+I'm balancing between a very demanding full time job and studying and coding in my free time.
