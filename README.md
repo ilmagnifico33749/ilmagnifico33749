@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👀
 
 <!--
 **ilmagnifico33749/ilmagnifico33749** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 I'm student at SoftUni, currently enlisted in the Python Dev Courses from the Professional Modules of SoftUni's Software Engineering Program. 
 It all started for me with a "Basics" course during the Pandemic, out of curiosity and also to kill some time.
-I was astonished to discover how fun coding is and it ended up turning into a hobby of mine which I hope to become my professional future.
-☯
+I was astonished to discover how fun programming is and it ended up turning into a hobby of mine which I hope to become my professional future.
